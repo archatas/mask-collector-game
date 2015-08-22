@@ -1,5 +1,5 @@
 # mask-collector-game
-A game prototype made at Berlin Mini Game Jam
+A tile-based game prototype using Cocos2d JS engine made at Berlin Mini Game Jam.
 
 There were 3 themes of this Jam which I combined into one game:
 
