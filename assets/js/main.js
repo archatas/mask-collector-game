@@ -1,12 +1,14 @@
 cc.game.onStart = function(){
     //load resources
     cc.view.setDesignResolutionSize(640, 480, cc.ResolutionPolicy.SHOW_ALL);
+    cc.view.resizeWithBrowserSize(true);
     cc.LoaderScene.preload(gameResources, function () {
         cc.director.runScene(new GameScene());
     }, this);
 };
 cc.game.onRestart = function(){
     cc.view.setDesignResolutionSize(640, 480, cc.ResolutionPolicy.SHOW_ALL);
+    cc.view.resizeWithBrowserSize(true);
     cc.director.runScene(new GameScene());
 };
 cc.game.restart = function () {
