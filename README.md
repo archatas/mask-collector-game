@@ -7,6 +7,6 @@ There were 3 themes of this Jam which I combined into one game:
  - Rockets
  - Masks
 
-Play the game: http://aaiddennium.com/mask-collector/
+Play the game: http://aidas.bendoraitis.lt/archive/mask-collector/
 
 Learn about Berlin Mini Game Jam: http://www.berlinminijam.de/
